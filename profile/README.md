@@ -3,7 +3,7 @@
 <p>I'm currently finishing up my computer science studies at Centrale Lille, with a specialization in embedded systems    </p>
 <p>I've also picked up web development a few years ago, and I'm currently working on <a href="https://aredl.net" target="_blank" rel="noreferrer">the AREDL website</a> (<a href="https://github.com/All-Rated-Extreme-Demon-List" target="_blank" rel="noreferrer">GitHub</a>)</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minebox260&show_icons=true&locale=en" alt="minebox260" /></p>
+<p>&nbsp;<img align="center" src="stats.svg" alt="GitHub statistics" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
